@@ -1,0 +1,22 @@
+.Button {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(26, 100%, 55%);
+  border-radius: 0.5rem;
+  padding: 1rem 2rem;
+  border-style: none;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.Button:hover {
+  opacity: 0.5;
+}
+.Button img {
+}
+.Button .buttonText {
+  color: white;
+  font-weight: bold;
+  margin: 0 0.5rem;
+}
