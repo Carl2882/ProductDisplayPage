@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import styles from "./Carousel.module.css";
 import leftArrow from "../../assets/images/icon-previous.svg";
 import rightArrow from "../../assets/images/icon-next.svg";
